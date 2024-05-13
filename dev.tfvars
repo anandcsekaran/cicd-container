@@ -1,0 +1,5 @@
+ecs_cluster_name = "anand-ecs-cluster-dev"
+ecs_service_name = "anand-ecs-service-dev"
+ecs_task_defn_family = "anand-ecs-task-def-dev"
+ecs_container_name = "anand-container-dev"
+ecs_port_name = "anand-3000-tcp-dev"

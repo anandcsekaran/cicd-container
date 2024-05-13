@@ -1,0 +1,5 @@
+ecs_cluster_name = "anand-ecs-cluster-prod"
+ecs_service_name = "anand-ecs-service-prod"
+ecs_task_defn_family = "anand-ecs-task-def-prod"
+ecs_container_name = "anand-container-prod"
+ecs_port_name = "anand-3000-tcp-prod"

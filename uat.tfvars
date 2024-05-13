@@ -1,0 +1,5 @@
+ecs_cluster_name = "anand-ecs-cluster-uat"
+ecs_service_name = "anand-ecs-service-uat"
+ecs_task_defn_family = "anand-ecs-task-def-uat"
+ecs_container_name = "anand-container-uat"
+ecs_port_name = "anand-3000-tcp-uat"
